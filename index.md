@@ -4,3 +4,11 @@ title: "Douglas Day's Blog"
 
 This is a place where I'll talk about what I'm learning!
 
+<nav>
+  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Home
+  </a>
+  <a href="/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+    About
+  </a>
+</nav>
