@@ -12,5 +12,3 @@ This is a place where I'll talk about what I'm learning!
     </li>
   {% endfor %}
 </ul>
-
-{% include social-media-links.html %}
