@@ -2,4 +2,4 @@
 
 I will post the content that I'm learning here.
 
-Click this [link](./blogtest.md)
+Click this [link](./Blogtest.md)
