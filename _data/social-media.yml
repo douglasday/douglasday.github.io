@@ -1,0 +1,18 @@
+email:
+  id: 'douglasday@protonmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'archangeldday'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'douglasday'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
