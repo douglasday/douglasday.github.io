@@ -13,3 +13,4 @@ This is a place where I'll talk about what I'm learning!
   {% endfor %}
 </ul>
 
+{% include social-media-links.html %}
