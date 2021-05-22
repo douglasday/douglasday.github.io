@@ -1,12 +1,31 @@
-title: Douglas Day Blog
-author: DDay
-email: douglasday@protonmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Thanks for viewing my blog! In an attempt to #learnInPublic, I'll start documenting my thoughts and learning processes here on this blog. Hope you enjoy!
-  
-# social links
-twitter_username: archangeldday # DO NOT include the @ character, or else the build will fail!
-github_username:  douglasday # DO NOT include the @ character, or else the build will fail!
+title: "Douglas Day's Blog"
+author: "DDay"
+description: "Thanks for viewing my blog! In an attempt to #learnInPublic, I'll start documenting my thoughts and learning processes here on this blog. Hope you enjoy! "
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:douglasday@protonmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/douglasday"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
