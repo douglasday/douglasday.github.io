@@ -3,11 +3,6 @@ title: "Map your hacking sessions- then execute"
 date: 2021-10-09
 ---
 
-### Introduction
-
-In this post, I'll try to detail a struggle I've been wrestling with and my effort to overcome it.
-
-
 Bug Bounty Hunting is an ever-changing ecosystem - what works in one season may not work in another. As such, and as with any discipline, being able to evaluate your self and adjust your course when thing stops working is imperative.
 
 As a succesful bug bounty hunter, I am in a _lot_ of private programs. Additionally, the [Hackerone Directory](hackerone.com/directory) is always getting larger. While this has the benefit of making the surface area for bug hunting _unimaginably large_, it also fosters my personal achilles heel: Decision Paralysis.
@@ -18,7 +13,7 @@ I'm sure I'm not the only one who's experienced something similar. You don't kno
 
 I knew I needed to implement _some_ amount of change to my approach, otherwise I'd hit that burnout that we all fear. Below is what I have done so far:
 
-## My Solution
+### My Solution
 
 The crux of the problem above wasn't that I wasn't finding bugs - it's that I wasn't feeling like I was using my time productively. Everyone has days where they don't find any bugs. That's okay. Those days where don't find any bugs, you should at least have gained knowledge about your target, getting you closer to bugs in the future. But when you didn't find any bugs AND you aren't any closer to finding bugs - that's demoralizing. So how could I get to a point where I didn't feel bad about not finding any bugs?
 
