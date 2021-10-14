@@ -7,3 +7,4 @@
 - [The Spartan Way](https://www.amazon.com/The-Spartan-Way-audiobook/dp/B07FNSDN6F/ref=sr_1_1?dchild=1&keywords=the+spartan+way&qid=1626118296&sr=8-1) by Joe De Sena
 - [Man Up](https://www.amazon.com/Man-Up-Scott-C-Schuler-audiobook/dp/B077K5YKX5/ref=sr_1_7?dchild=1&keywords=man+up&qid=1629321144&sr=8-7) by Scott Schuler
 - [Sins of Empire](https://www.amazon.com/Sins-Empire-Gods-Blood-Powder/dp/0316407216/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1631896301&sr=8-1) by Brian McClellan
+-[Jesus & the Jewish Roots of the Eucharist](https://www.amazon.com/Jesus-Jewish-Roots-Eucharist-Unlocking/dp/0385531869/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634185354&sr=8-1)
