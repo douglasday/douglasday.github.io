@@ -9,4 +9,4 @@
 - [Sins of Empire](https://www.amazon.com/Sins-Empire-Gods-Blood-Powder/dp/0316407216/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1631896301&sr=8-1) by Brian McClellan
 - [Jesus & the Jewish Roots of the Eucharist](https://www.amazon.com/Jesus-Jewish-Roots-Eucharist-Unlocking/dp/0385531869/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634185354&sr=8-1) by Brant Pitre
 - [The Organized Mind](https://www.amazon.com/The-Organized-Mind-audiobook/dp/B00MH43RWK/ref=sr_1_1?dchild=1&keywords=The+organized+mind&qid=1634335352&sr=8-1) by Daniel Levitin
-- [10 Rules for Resilience: Mental Toughness for Families](https://www.amazon.com/10-Rules-Resilience-Toughness-Families/dp/B08V3V9KN4/ref=sr_1_3?crid=1501YJYW1U12U&dchild=1&keywords=10+rules+for+resilience+mental+toughness+for+families&qid=1635447118&sprefix=10+rul%2Caps%2C135&sr=8-3) by oe De Sena
+- [10 Rules for Resilience: Mental Toughness for Families](https://www.amazon.com/10-Rules-Resilience-Toughness-Families/dp/B08V3V9KN4/ref=sr_1_3?crid=1501YJYW1U12U&dchild=1&keywords=10+rules+for+resilience+mental+toughness+for+families&qid=1635447118&sprefix=10+rul%2Caps%2C135&sr=8-3) by Joe De Sena
