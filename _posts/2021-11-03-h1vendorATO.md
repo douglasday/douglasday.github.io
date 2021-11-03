@@ -90,3 +90,7 @@ All in all this was a great experience and a pretty cool story to tell. All part
 - The reporter was a rockstar for being the best looking bounty hunter in the industry
 
 As always, stay safe & stay metal!
+
+And if you like this bug:
+BTC to `3KvQFALzyUe27kPCBP89wMZDN9uzWHGTEU`
+ETH to `0x462EF9726F8d68cC7A3ABedFAE62096C99E3b7A7`
