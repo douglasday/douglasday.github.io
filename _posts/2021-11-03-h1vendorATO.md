@@ -1,9 +1,7 @@
 ---
-title: "How I Achieved ATO on an H1 Vendor"
+title: "How I Achieved ATO on a HackerOne Vendor"
 date: 2021-11-03
 ---
-
-# How I achieved ATO on a HackerOne vendor
 
 Every year as a HackerOne Clear verified researcher, I'm required to register on a couple of vendors that HackerOne uses. As I was going through the process of providing my social security number, 7 years of address history, my mother's maiden name, and last bowel movement, I saw a little familiar popup in the bottom left corner:
 
