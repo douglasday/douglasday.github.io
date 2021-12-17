@@ -13,3 +13,4 @@
 - [Tribe of Millionaires](https://www.amazon.com/Tribe-Millionaires-Choice-Change-Everything/dp/B07Y5QYZ4W/ref=sr_1_1?crid=23WN7YGQR3N6H&keywords=tribe+of+millionaires&qid=1636757614&sprefix=tribe+of+mil%2Caps%2C210&sr=8-1) by David Osborn, Pat Hiban, Mike McCarthy, & Tim Rhode
 - [Indistractable](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1637196253&sr=8-1) by Nir Eyal
 - [Jesus & the Jewish Roots of Mary](https://www.amazon.com/Jesus-Jewish-Roots-Mary-Unveiling/dp/0525572732/ref=sr_1_1?crid=OPW00Z5AX08I&keywords=jesus+and+the+jewish+roots+of+mary&qid=1638395415&sprefix=Jesus+and+the+jew%2Caps%2C220&sr=8-1) by Brant Pitre
+- [Traitor General](https://www.amazon.com/gp/product/1844168190/ref=ox_sc_saved_title_1?smid=&psc=1) by Dan Abnett
