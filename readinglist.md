@@ -1,4 +1,7 @@
-## Books I've Read in 2021
+## Books I've Read in 2022
+- [Courage Is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
+
+## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
 - [Can't Hurt Me](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512279/ref=sr_1_2?crid=349DJZBVBYVVK&dchild=1&keywords=can%27t+hurt+me&qid=1622693278&sprefix=can%27t+hurt%2Caps%2C231&sr=8-2) by David Goggins
 - [Straight Silver](https://www.amazon.com/Saint-Gaunts-Ghosts-Omnibus/dp/1784966274/ref=sr_1_2?crid=LUZUKS9L6D9U&dchild=1&keywords=sabbat+martyr&qid=1622693300&sprefix=Sabbat+Mart%2Caps%2C204&sr=8-2) by Dan Abnett
