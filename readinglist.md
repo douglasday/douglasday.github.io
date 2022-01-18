@@ -1,5 +1,6 @@
 ## Books I've Read in 2022
 - [Courage Is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
+- [His Last Command](https://www.amazon.com/The-Lost-Gaunts-Ghosts-Omnibus/dp/1844168182/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1642534161&sr=8-1) by Dan Abnett
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
