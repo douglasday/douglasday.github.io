@@ -10,7 +10,7 @@ Ahoy, and welcome to my blog.
 <h3>Things I am:</h3>
 
 - Douglas Day
-- Christian
+- Catholic
 - Infosec fledgeling
 - Blockchain newb
 - Campfire enthusiast
