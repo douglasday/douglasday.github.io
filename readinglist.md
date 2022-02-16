@@ -4,6 +4,7 @@
 - [The Obstacle is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358/ref=sr_1_1?keywords=the+obstacle+is+the+way&qid=1643521363&s=books&sprefix=the+obstac%2Cstripbooks%2C144&sr=1-1) by Ryan Holiday
 - [The Armour of Contempt](https://www.amazon.com/The-Lost-Gaunts-Ghosts-Omnibus/dp/1844168182/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1642534161&sr=8-1) by Dan Abnett
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818/ref=sr_1_1?keywords=ego+is+the+enemy&qid=1644513360&s=books&sprefix=ego+is+the+e%2Cstripbooks%2C224&sr=1-1) by Ryan Holiday
+- [Stillness is the Key](https://www.amazon.com/Stillness-Key-Ryan-Holiday/dp/0525538585/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1645041638&sr=8-1) by Ryan Holiday
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
