@@ -6,6 +6,7 @@
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818/ref=sr_1_1?keywords=ego+is+the+enemy&qid=1644513360&s=books&sprefix=ego+is+the+e%2Cstripbooks%2C224&sr=1-1) by Ryan Holiday
 - [Stillness is the Key](https://www.amazon.com/Stillness-Key-Ryan-Holiday/dp/0525538585/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1645041638&sr=8-1) by Ryan Holiday
 - [Only in Death](https://www.amazon.com/The-Lost-Gaunts-Ghosts-Omnibus/dp/1844168182/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1642534161&sr=8-1) by Dan Abnett
+- [How to Go From Being a Good Evangelical to a Committed Catholic in Ninety-Five Difficult Steps](https://www.amazon.com/Evangelical-Committed-Catholic-Ninety-Five-Difficult/dp/1610970330/ref=sr_1_1?keywords=how+to+go+from+being+a+good+evangelical&qid=1646164954&sprefix=How+to+go+from+being+a+%2Caps%2C169&sr=8-1) by Christian Smith
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
