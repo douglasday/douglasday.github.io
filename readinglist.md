@@ -8,6 +8,7 @@
 - [Only in Death](https://www.amazon.com/The-Lost-Gaunts-Ghosts-Omnibus/dp/1844168182/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1642534161&sr=8-1) by Dan Abnett
 - [How to Go From Being a Good Evangelical to a Committed Catholic in Ninety-Five Difficult Steps](https://www.amazon.com/Evangelical-Committed-Catholic-Ninety-Five-Difficult/dp/1610970330/ref=sr_1_1?keywords=how+to+go+from+being+a+good+evangelical&qid=1646164954&sprefix=How+to+go+from+being+a+%2Caps%2C169&sr=8-1) by Christian Smith
 - [The Screwtape Letters](https://www.amazon.com/Screwtape-Letters-C-S-Lewis/dp/0060652934/ref=sr_1_1?keywords=screwtape+letters+by+c.s.+lewis+paperback&qid=1646758639&sprefix=screwtape+letters+by+c.s.+lewis%2Caps%2C148&sr=8-1) by C. S. Lewis
+- [On the Shortness of Life](https://www.amazon.com/Shortness-Life-Seneca/dp/1941129420/ref=sr_1_4?keywords=on+the+shortness+of+life&qid=1647048061&sprefix=on+the+shortn%2Caps%2C182&sr=8-4) by Seneca
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
