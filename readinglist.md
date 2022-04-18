@@ -12,6 +12,7 @@
 - [Evangelical is Not Enough](https://www.amazon.com/Evangelical-Not-Enough-Worship-Sacrament/dp/0898702216/ref=sr_1_1?keywords=evangelical+is+not+enough&qid=1648414409&sprefix=evangelical+is+not%2Caps%2C378&sr=8-1) by Thomas Howard
 - [Introduction to the Spiritual Life](https://www.amazon.com/Introduction-Spiritual-Life-Walking-Prayer/dp/B08ZJXJXCF/ref=sr_1_1?keywords=introduction+to+the+spiritual+life+brant+pitre&qid=1649097944&sprefix=introduction+to+the+sp%2Caps%2C134&sr=8-1) by Brant Pitre
 - [Blood Pact](https://www.amazon.com/gp/product/1784968153/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) by Dan Abnett
+- [Salvation's Reach](https://www.amazon.com/gp/product/1784968153/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) by Dan Abnett
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
