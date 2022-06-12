@@ -15,6 +15,7 @@
 - [Salvation's Reach](https://www.amazon.com/gp/product/1784968153/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) by Dan Abnett
 - [Rome Sweet Home](https://www.amazon.com/Rome-Sweet-Home-Journey-Catholicism/dp/0898704782/ref=sr_1_1?keywords=rome+sweet+home+scott+hahn&qid=1653320237&sprefix=rome+sw%2Caps%2C219&sr=8-1) by Scott Hahn
 - [How to Think Like a Roman Emperor](https://www.amazon.com/How-to-Think-Like-Roman-Emperor-audiobook/dp/B07F9YYR62/ref=sr_1_1?keywords=how+to+think+like+a+roman+emperor&qid=1654316020&s=books&sprefix=how+to+think+lik%2Cstripbooks%2C217&sr=1-1) by Donald Robertson
+- [The 5am Club](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443460710/ref=sr_1_1?keywords=the+5am+club&qid=1655000718&sprefix=the+5am%2Caps%2C136&sr=8-1) by Robin Sharma
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
