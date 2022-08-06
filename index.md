@@ -2,7 +2,7 @@
 title: "Douglas Day's Blog"
 ---
 
-This is a place where I talk about what I'm learning.
+This is a place where I talk about what I'm learning
 
 <nav>
   {% for item in site.data.navigation %}
