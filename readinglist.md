@@ -19,6 +19,7 @@
 - [On the Shoulders of Hobbits](https://www.amazon.com/gp/product/0802443192/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) by Louis Markos
 - [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/0486832945/) by Sun Tzu
 - [How to Destroy Western Civilization and Other Ideas from the Cultural Abyss](https://www.amazon.com/Destroy-Western-Civilization-Other-Cultural/dp/B098D53WN4/ref=sr_1_1?keywords=how+to+destroy+western+civilization+kreeft&qid=1659976402&sprefix=how+to+destroy+wester%2Caps%2C272&sr=8-1) by Peter J. Kreeft
+- [Discipline Is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues/dp/0593191692/ref=sr_1_1?keywords=discipline+is+destiny+ryan+holiday&qid=1666625941&qu=eyJxc2MiOiIxLjgzIiwicXNhIjoiMS42MiIsInFzcCI6IjEuNjMifQ%3D%3D&sprefix=Discip%2Caps%2C212&sr=8-1) by Ryan Holiday
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
