@@ -5,7 +5,7 @@ title: About
 
 <h1>About Me</h1>
 
-Ahoy, and welcome to my blog. 
+Ahoy, and welcome to my blog..
 
 <h3>Things I am:</h3>
 
