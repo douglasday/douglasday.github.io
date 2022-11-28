@@ -34,7 +34,7 @@ Hello - this report was filed by a hacker in your Embedded Hackers list, and as 
   
  NOTE - While _yes_ a program could technically just monitor their queue for reports from their consistent hackers, for high-volume programs this becomes unfeasible.
   
- ### How It Benefits The Hacker
+### How It Benefits The Hacker
 
  - The hacker has to waste less time explaining the niche functionality that's specific to the program.
  - The hacker gets paid faster
