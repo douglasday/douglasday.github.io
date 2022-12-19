@@ -22,6 +22,7 @@
 - [Discipline Is Destiny](https://www.amazon.com/Discipline-Destiny-Power-Self-Control-Virtues/dp/0593191692/ref=sr_1_1?keywords=discipline+is+destiny+ryan+holiday&qid=1666625941&qu=eyJxc2MiOiIxLjgzIiwicXNhIjoiMS42MiIsInFzcCI6IjEuNjMifQ%3D%3D&sprefix=Discip%2Caps%2C212&sr=8-1) by Ryan Holiday
 - [Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=sr_1_1?keywords=digital+minimalism+cal+newport&qid=1668539844&sprefix=digital+min%2Caps%2C143&sr=8-1) by Cal Newport
 - [The Exorcism Files: True Stories of Demonic Possession](https://www.amazon.com/gp/product/1644135086/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) by Adam Blai
+- [The Warmaster](https://www.amazon.com/Victory-Part-Two-Warhammer-000/dp/1804070785/ref=sr_1_1?keywords=the+victory+part+2&qid=1671475754&sprefix=the+victor%2Caps%2C298&sr=8-1) by Dan Abnett
 
 ## Books I Read in 2021
 - [Twelve Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=sr_1_1?crid=2YXR0031ITV1V&dchild=1&keywords=twelve+rules+for+life+by+jordan+peterson&qid=1622693242&sprefix=twelve+rules+for+li%2Caps%2C209&sr=8-1) by Dr. Jordan B Peterson
