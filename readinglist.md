@@ -1,5 +1,7 @@
 ## Books I've Read in 2023
 - [Make It Stick - The Science of Successful Learning](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?keywords=make+it+stick+the+science+of+successful+learning&qid=1673463798&sprefix=make+it+stick+%2Caps%2C148&sr=8-1) by Peter C Brown
+- [Anarch](https://www.amazon.com/Victory-Part-Two-Warhammer-000/dp/1804070785/ref=sr_1_1?keywords=the+victory+part+2&qid=1671475754&sprefix=the+victor%2Caps%2C298&sr=8-1) by Dan Abnett
+- [Catholic Guide to Miracles](https://www.amazon.com/Catholic-Guide-Miracles-Separating-Counterfeit/dp/1644132966/ref=sr_1_1?crid=6GBUUD7MP74R&keywords=catholic+guide+to+miracles&qid=1674499233&sprefix=catholic+guide+to+miracles%2Caps%2C150&sr=8-1) by Adam Blai
 
 ## Books I Read in 2022
 - [Courage is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
