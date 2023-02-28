@@ -3,7 +3,7 @@
 - [Anarch](https://www.amazon.com/Victory-Part-Two-Warhammer-000/dp/1804070785/ref=sr_1_1?keywords=the+victory+part+2&qid=1671475754&sprefix=the+victor%2Caps%2C298&sr=8-1) by Dan Abnett
 - [The Catholic Guide to Miracles](https://www.amazon.com/Catholic-Guide-Miracles-Separating-Counterfeit/dp/1644132966/ref=sr_1_1?crid=6GBUUD7MP74R&keywords=catholic+guide+to+miracles&qid=1674499233&sprefix=catholic+guide+to+miracles%2Caps%2C150&sr=8-1) by Adam Blai
 - [Stunned By Scripture](https://www.amazon.com/Stunned-Scripture-Bible-Made-Catholic/dp/1612783937/ref=sr_1_1?keywords=stunned+by+scripture+by+dr.+john+bergsma&qid=1676501895&sprefix=stunned+by+s%2Caps%2C177&sr=8-1) by Dr John Bergsma
-- [Ha! A Christian Philosophy of Humor](https://www.amazon.com/gp/product/1587313189/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) by Peter Kreeft
+- [Ha!: A Christian Philosophy of Humor](https://www.amazon.com/gp/product/1587313189/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) by Peter Kreeft
 
 ## Books I Read in 2022
 - [Courage is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
