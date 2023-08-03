@@ -7,6 +7,7 @@
 - [Unoffendable](https://www.amazon.com/Unoffendable-Just-Change-Make-Better/dp/B09ZYMS2R5/ref=sr_1_1?keywords=unoffendable+by+brant+hansen&sr=8-1) By Brant Hansen
 - [The Intentional Father](https://www.amazon.com/Intentional-Father-Practical-Courage-Character/dp/0801018684/ref=sr_1_1?keywords=the+intentional+father+jon+tyson&sr=8-1) by Jon Tyson
 - [The Comfort Crisis](https://www.amazon.com/Comfort-Crisis-Embrace-Discomfort-Reclaim/dp/0593138767/ref=sr_1_1?keywords=comfort+crisis&qid=1684169081&sprefix=comfort+cri%2Caps%2C168&sr=8-1) by Michael Easter
+- [The Ruthless Elimination of Hurry](https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually/dp/0525653090/ref=sr_1_1?keywords=the+ruthless+elimination+of+hurry+by+john+mark+comer&qid=1691076549&sprefix=the+ruth%2Caps%2C175&sr=8-1) by John Mark Comer
 
 ## Books I Read in 2022
 - [Courage is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
