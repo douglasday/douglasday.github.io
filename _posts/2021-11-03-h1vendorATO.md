@@ -28,7 +28,7 @@ Intercom('show');
 At this point, I am still unauthenticated and Intercom doesn't know who I am. I'm effectively a guest. So I ran the following payload to trick Intercom into thinking I'm someone else:
 
 ```
-Intercom('boot' {
+Intercom('boot', {
   email: '<MY_EMAIL_ADDRESS>'
 });
 ```
