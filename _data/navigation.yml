@@ -6,3 +6,13 @@
   link: /blog.html
 - name: Reading List
   link: /readinglist.html
+
+
+
+main:
+  - title: "About Me"
+    url: /about.html
+  - title: "Blog"
+    url: /blog.html
+  - title: "Books I Like"
+    url: /readinglist.html
