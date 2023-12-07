@@ -1,15 +1,4 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Reading List
-  link: /readinglist.html
-
-
-
--main:
+main:
   - title: "About Me"
     url: /about.html
   - title: "Blog"
