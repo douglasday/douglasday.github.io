@@ -9,7 +9,7 @@
 
 
 
-main:
+-main:
   - title: "About Me"
     url: /about.html
   - title: "Blog"
