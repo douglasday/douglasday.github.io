@@ -10,7 +10,7 @@
 - [The Ruthless Elimination of Hurry](https://www.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually/dp/0525653090/ref=sr_1_1?keywords=the+ruthless+elimination+of+hurry+by+john+mark+comer&qid=1691076549&sprefix=the+ruth%2Caps%2C175&sr=8-1) by John Mark Comer
 - [Becoming A King](https://www.amazon.com/Becoming-King-Path-Restoring-Heart/dp/0785232117/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Morgan Snyder
 - [The Fellowship of the Ring](https://www.amazon.com/gp/product/0007581149/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) by JRR Tolkien
-
+- [Be the Unicorn](https://www.amazon.com/Be-Unicorn-Data-Driven-Separate-Leaders/dp/B0C3F7VP61/ref=sr_1_1?crid=1CETW1IKDCWJ&keywords=be+the+unicorn+vanderbloemen&qid=1703973428&sprefix=be+the+unicorn%2Caps%2C142&sr=8-1) by William Vanderbloemen
 ## Books I Read in 2022
 - [Courage is Calling](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=3I16QU4TOG2NF&keywords=courage+is+calling+ryan+holiday&qid=1641406889&sprefix=courage+is+calling%2Caps%2C138&sr=8-1) by Ryan Holiday
 - [His Last Command](https://www.amazon.com/The-Lost-Gaunts-Ghosts-Omnibus/dp/1844168182/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1642534161&sr=8-1) by Dan Abnett
