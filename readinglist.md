@@ -1,6 +1,7 @@
 ## Books I've Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
-## Books I Read in 2023
+- [Krieg](https://www.amazon.com/Krieg-Warhammer-000-Steve-Lyons/dp/1800262043/ref=sr_1_1?crid=3UEQFU8K34ZX1&dib=eyJ2IjoiMSJ9.vLDtptqyGVz6HLvegUKuZwPN4q4JwkmpN119NXb0xquWR6Kf89XRO_rtWHV12ZiiZDzuIQnfo3fTOGkvxhFVdjvAoz022oz-sqZvO_b8TepM46z6A8G9Cdxbue0nV0aTSaVCi1pWfkNUC1wCRKYpOhEUFAyRTjgEWscLr5vlXdonunauaYror0a8_ZSRWq-ywHfz6VaefhbLR_MXNdo36iHGiEBZ_BSV5tExLq847WI.vYZYdM8rpME8IQLMmjO0fodTvqoLUnu-S43upWegGT0&dib_tag=se&keywords=krieg+steve+lyons&qid=1709857164&sprefix=kreig+ste%2Caps%2C182&sr=8-1) By Steve Lyons
+  ## Books I Read in 2023
 - [Make It Stick - The Science of Successful Learning](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?keywords=make+it+stick+the+science+of+successful+learning&qid=1673463798&sprefix=make+it+stick+%2Caps%2C148&sr=8-1) by Peter C Brown
 - [Anarch](https://www.amazon.com/Victory-Part-Two-Warhammer-000/dp/1804070785/ref=sr_1_1?keywords=the+victory+part+2&qid=1671475754&sprefix=the+victor%2Caps%2C298&sr=8-1) by Dan Abnett
 - [The Catholic Guide to Miracles](https://www.amazon.com/Catholic-Guide-Miracles-Separating-Counterfeit/dp/1644132966/ref=sr_1_1?crid=6GBUUD7MP74R&keywords=catholic+guide+to+miracles&qid=1674499233&sprefix=catholic+guide+to+miracles%2Caps%2C150&sr=8-1) by Adam Blai
