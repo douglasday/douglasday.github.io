@@ -1,4 +1,4 @@
-## Books I've Read in 2024
+  ## Books I've Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
 - [Krieg](https://www.amazon.com/Krieg-Warhammer-000-Steve-Lyons/dp/1800262043/ref=sr_1_1?crid=3UEQFU8K34ZX1&dib=eyJ2IjoiMSJ9.vLDtptqyGVz6HLvegUKuZwPN4q4JwkmpN119NXb0xquWR6Kf89XRO_rtWHV12ZiiZDzuIQnfo3fTOGkvxhFVdjvAoz022oz-sqZvO_b8TepM46z6A8G9Cdxbue0nV0aTSaVCi1pWfkNUC1wCRKYpOhEUFAyRTjgEWscLr5vlXdonunauaYror0a8_ZSRWq-ywHfz6VaefhbLR_MXNdo36iHGiEBZ_BSV5tExLq847WI.vYZYdM8rpME8IQLMmjO0fodTvqoLUnu-S43upWegGT0&dib_tag=se&keywords=krieg+steve+lyons&qid=1709857164&sprefix=kreig+ste%2Caps%2C182&sr=8-1) By Steve Lyons
   ## Books I Read in 2023
