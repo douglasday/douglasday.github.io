@@ -1,5 +1,8 @@
 title: Douglas Day's Blog
-author: DDay
+author: 
+  name: "DDay"
+  bio: "I am a hacker."
+  location: "Holy Terra"
 email: douglasday@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Seeker of Truth. Forever a student. Truth is at the intersection of Athens & Jerusalem.
