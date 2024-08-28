@@ -1,10 +1,17 @@
-  ## Books I've Read in 2024
+  
+---
+title: Reading List
+layout: single
+author_profile: true
+---
+
+## Books I've Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
 - [Krieg](https://www.amazon.com/Krieg-Warhammer-000-Steve-Lyons/dp/1800262043/ref=sr_1_1?crid=3UEQFU8K34ZX1&dib=eyJ2IjoiMSJ9.vLDtptqyGVz6HLvegUKuZwPN4q4JwkmpN119NXb0xquWR6Kf89XRO_rtWHV12ZiiZDzuIQnfo3fTOGkvxhFVdjvAoz022oz-sqZvO_b8TepM46z6A8G9Cdxbue0nV0aTSaVCi1pWfkNUC1wCRKYpOhEUFAyRTjgEWscLr5vlXdonunauaYror0a8_ZSRWq-ywHfz6VaefhbLR_MXNdo36iHGiEBZ_BSV5tExLq847WI.vYZYdM8rpME8IQLMmjO0fodTvqoLUnu-S43upWegGT0&dib_tag=se&keywords=krieg+steve+lyons&qid=1709857164&sprefix=kreig+ste%2Caps%2C182&sr=8-1) By Steve Lyons
 - [Courage is Calling (re-read)](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=14RQBNCDU6KCA&dib=eyJ2IjoiMSJ9.tFkd0QL8Z8Ocy09vg1Wx6cK138P5lXF6vH0wexf0ey6K-71wiy4l8hX68AXXgEGoKLedyhE76q8hutABlkzC3D4Kz111Dr6623wWlEBWQgnXlgCwOUgnkulfuMYh7I9blKzq-_G2UkhK54GiRmG0ykD9ZLuNhH3r-VMCO5OJ8qCP8TLTbmm6DCnUlecgVSGmMZlCT_UB3auKVDGLFlGDWFe2_wSSPMWnGSJ59gM-GiU.9Zu2zs8hd72YvaHtodxfXkAA-fl7HXqeksEosEXJ0i0&dib_tag=se&keywords=courage+is+calling+ryan+holiday&qid=1711559602&sprefix=courage+is+call%2Caps%2C137&sr=8-1) by Ryan Holiday
 - [Right Thing, Right Now](https://www.amazon.com/Right-Thing-Now-Values-Character/dp/0593191714/ref=sr_1_1?crid=1X6KXCI4KZ2FI&dib=eyJ2IjoiMSJ9.Lry9i3EdmjH_uC_Ac0MdNPtu1GAz4PNE3lK9U9x2_KwIDEWzkXkFBdjA0WB92M4MChE846TQ9sq8ZLDQoKufE_8PqVyZwzC2uXsbiI2Jf2meML0PmFkn5qGN0PSfQz7K0jCSwIIklTJtq4d2i14r5PxfNQyLbmp85XXDJrPNg-vcWQSUDKDCaEKmtLxtqpvEX_8aWrVpCt4vaNxUOS8mljuguv3aoHKS_CGaXEgTCfo.RMLk2ea3fTnH17z0uxPTefkw3Eh0YTNIRc9p05xPWB4&dib_tag=se&keywords=right+thing+right+now+ryan+holiday&qid=1724868725&sprefix=right+thing+right+now%2Caps%2C149&sr=8-1) by Ryan Holiday
 - [Habits of the Household](https://www.amazon.com/Habits-Household-Practicing-Everyday-Rhythms/dp/0310362938/ref=sr_1_1?crid=2U81N13FRL69W&dib=eyJ2IjoiMSJ9.PnCcVroxSYrz2v-ctF8MX8QeYkYiqFuRh7eV0TrcjHTEuhotky05MsAFEPKgbsSovGTnTmCEg71UPuwLuIesyfLII7D0FIdLIDp_yZaKd4WHADqemNKl7ueWtY6Jd_pe-hxInvifMkLTZCJTyatCsTAKeojPNvScx8PBP565FhNkf8AX1k0ZIene0WOatux1AGGeFn5yNumCRqZLMr69gVcmR5Dm70hBfrr-WMiDAyk.l3G2HpiOAt-G1mQZ6WfX8MrtH4jF4z9e_x_cUvkNm9k&dib_tag=se&keywords=habits+of+the+household&qid=1724868761&sprefix=habits+of+t%2Caps%2C148&sr=8-1) by Justin Whitmel Earley
-  ## Books I Read in 2023
+## Books I Read in 2023
 - [Make It Stick - The Science of Successful Learning](https://www.amazon.com/Make-It-Stick-Peter-C-Brown-audiobook/dp/B00M1Z2THY/ref=sr_1_1?keywords=make+it+stick+the+science+of+successful+learning&qid=1673463798&sprefix=make+it+stick+%2Caps%2C148&sr=8-1) by Peter C Brown
 - [Anarch](https://www.amazon.com/Victory-Part-Two-Warhammer-000/dp/1804070785/ref=sr_1_1?keywords=the+victory+part+2&qid=1671475754&sprefix=the+victor%2Caps%2C298&sr=8-1) by Dan Abnett
 - [The Catholic Guide to Miracles](https://www.amazon.com/Catholic-Guide-Miracles-Separating-Counterfeit/dp/1644132966/ref=sr_1_1?crid=6GBUUD7MP74R&keywords=catholic+guide+to+miracles&qid=1674499233&sprefix=catholic+guide+to+miracles%2Caps%2C150&sr=8-1) by Adam Blai
