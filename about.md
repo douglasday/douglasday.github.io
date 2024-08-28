@@ -4,8 +4,6 @@ layout: single
 author_profile: true
 ---
 
-<h1>About Me</h1>
-
 Ahoy, and welcome to my blog. 
 
 <h3>Things I am:</h3>
