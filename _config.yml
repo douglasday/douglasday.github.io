@@ -17,6 +17,11 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+sidebar:
+  nav: "docs"
+  title: "My Sidebar"
+
+
 #theme: jekyll-theme-midnight
 #minima:
 #  skin: dark
