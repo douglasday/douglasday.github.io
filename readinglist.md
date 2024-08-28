@@ -1,4 +1,3 @@
-  
 ---
 title: Reading List
 layout: single
