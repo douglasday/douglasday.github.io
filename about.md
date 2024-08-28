@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+author_profile: true
 ---
 
 <h1>About Me</h1>
