@@ -1,4 +1,7 @@
-# How I Became the Most Valuable Hacker
+---
+title: "How I Became The Most Valuable Hacker"
+date: 2024-12-13
+---
 
 
 This January, I found myself under Miami’s sun, hacking for Capital One at HackerOne’s H1-305 live hacking event (LHE). Imagine this: 50-100 of the world’s best hackers flown to a fun destination on an all-expenses-paid trip to hunt for bugs, earn bounties, and compete for prizes. What’s not to love? Besides the thrill of free travel, and open bar, and hacking by the pool, what makes these LHE's particular attractive is:
