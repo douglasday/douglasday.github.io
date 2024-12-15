@@ -1,6 +1,8 @@
 ---
 title: "How I Became The Most Valuable Hacker"
 date: 2024-12-13
+layout: single
+author_profile: true
 ---
 
 
