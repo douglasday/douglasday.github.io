@@ -12,7 +12,7 @@ This January, I found myself under Miami’s sun, hacking for Capital One at Hac
 2. In-person back-and-forth with the security team - This is particularly helpful when trying to communicate a particularly complicated bug
 3. Expanded Scope - LHE's are a good opportunity for a program to bring in new features/subsidiaries/etc as a trial run before introducing them to their main program
 4. Bigger Bounties - It's not uncommon for programs to 2-3x their normal bounty amounts in LHE's. 
-5. Networking - Meeting other hackers in person will set up LOADS of opportunities to collaborate in the future. I owe my entire success in the LHE circuit to meeting [Jesse](hackerone.com/hogarth45) at Top Golf in Vegas at H1-702-2019
+5. Networking - Meeting other hackers in person will set up LOADS of opportunities to collaborate in the future. I owe my entire success in the LHE circuit to meeting [Jesse](https://hackerone.com/hogarth45) at Top Golf in Vegas at H1-702-2019
 6. Swag - My wife & joke that after 19 LHE's, half of the stuff in my house is Hackerone branded. And as soon as the H1 team releases Hackerone branded boxer-briefs I'll have a full outfit, from shoes to hat. 
    
    
