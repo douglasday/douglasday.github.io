@@ -56,7 +56,7 @@ And at H1-305, My wacky price manipulation bugs needed someone on the inside to 
 
 The program teams are just as excited to see cool bugs are you are to get paid for them. Work with them, and ask them a LOT of questions & favors. And no, by favors I don't mean severity upgrades. I mean asking for visibility into the backend, or to check to see if an exploit worked, or for the ability to chat with a dev. Early on, I was too afraid/nervous to ask favors. Oh how I wish I could get back in time - the bugs I would have uncovered had I only been bolder.
 
-**Moral of the Story:** *As the program team for favors.*
+**Moral of the Story:** *Ask the program team for favors.*
 
 ### Staying On One Target Beats Flitting Around Anyday
 
