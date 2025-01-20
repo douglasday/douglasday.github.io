@@ -3,7 +3,7 @@ title: "Collaborative Chains Without Compromising Research"
 date: 2025-01-20
 layout: single
 author_profile: true
-image: /assets/images/posts/chain.png
+image: /assets/images/posts/Chain.png
 ---
 
 ### The Problem
