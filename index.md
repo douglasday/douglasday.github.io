@@ -1,6 +1,7 @@
 ---
 title: "Douglas Day's Blog"
 author_profile: true
+show_excerpts: false
 ---
 
 <div class="blog-posts">
