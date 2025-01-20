@@ -7,6 +7,7 @@ author_profile: true
 ## Books I've Read in 2025
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/1982171456/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.7c9Fi1iXXCEpHRcIbSnSFC_xip7u_AXlNt8j2_qppZnBW4zrodzYpWczigNBf-_a3Kn8vAZiAxVarqfLuThTF2x5a0yM8XmSwv2pUVAIldWBUHqRH789QsvrUOVdussW7iFvz4e8RKQo8jrJNxg9QYFgCulAyxAv4r7MaLy_mMXZtSoTT6Mo_iHXSf1uNQxxmYOL5aqwFjOKNMFEdmmXWRxT3-SZKsNZtT3Nyu9eJYk.V1vHzLU6QDPE4WYhLH3m9HQpFgRbrBDRXhcbPIbsmqA&qid=1736547640&sr=8-11-spons) by Dale Carnegie
 - [The Exorcist Files](https://www.amazon.com/Exorcist-Files-Stories-Reality-Defeat/dp/1546007652/ref=sr_1_1?crid=98LIAUXC7X40&dib=eyJ2IjoiMSJ9.3IiLq64NeniIHH7GXI8iop3iOKJqythFU4LB6lWRSt2MW3TIaCaRocKkSvpIca8WxfaaPbJtIzupv8OGqkFJwTvjMBi8eFWqEdT3EGD6zvXd_8QqeS3lHgdbn9Sr_Nkl7k-vdtej7n3xx18MB1B5NGI7y4x_N8vCasa2VlnSYX1GsufhGEMwlQHSecynWw2YF8d-0UAMRRMbTJ15Cg9dQEVcRr9v7wIAxvlbHaf7cjo.9wMOHWqKxd1zQ7ZpK8gcy7fwUSh6VIDB2I74T8Meo9c&dib_tag=se&keywords=the+exorcist+files&qid=1736547680&sprefix=the+exor%2Caps%2C213&sr=8-1) By Fr Carlos Martins
+- [Terror of Demons](https://www.amazon.com/Terror-Demons-Reclaiming-Traditional-Catholic/dp/1644137240/) by Kennedy Hall
 
 ## Books I Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
