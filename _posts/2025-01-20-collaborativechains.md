@@ -1,5 +1,5 @@
 ---
-title: "Collaborative Chains Without Compromising Research"
+title: "Report Pointers for Collaborative Chains"
 date: 2025-01-20
 layout: single
 author_profile: true
@@ -14,7 +14,7 @@ For example, imagine you've discovered a way to achieve account takeover, but it
 
 ### The Solution
 
-I've found a simple yet effective way to handle this situation that benefits both parties: Reference chaining.
+I've found a simple yet effective way to handle this situation that benefits both parties: Report Pointers.
 
 Here's how it works:
 
@@ -56,3 +56,5 @@ Before using this approach, make sure to:
 Bug bounty hunting doesn't have to be a purely solo endeavor. By finding ways to collaborate while respecting each other's research, we can uncover more impactful vulnerabilities and create better security outcomes for the programs we hack on.
 
 As always, stay safe & stay metal!
+
+(Report Pointer naming credit to [NBK_2000](https://twitter.com/NBK_2000))
