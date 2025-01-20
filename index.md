@@ -2,6 +2,8 @@
 title: "Douglas Day's Blog"
 author_profile: true
 show_excerpts: false
+layout: single
+entries_layout: grid
 ---
 
 <div class="blog-posts">
