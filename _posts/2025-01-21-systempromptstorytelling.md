@@ -2,6 +2,8 @@
 title: "System Prompt Storytelling: A Tale of AI Jailbreaking"
 date: 2025-01-21
 image: /assets/images/posts/stories.png
+layout: single
+author_profile: true
 ---
 
 
