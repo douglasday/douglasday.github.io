@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-I was recently poking around at an AI agent, trying to discover its system prompt. If you're not familiar with system prompts, they're essentially the core instructions that define how an AI assistant behaves - think of it as the AI's operating manual or personality definition. Getting access to this can be _incredibly_ valuable for understanding how to better interact with (or attack) the system.
+A while back I was poking around at an AI agent, trying to discover its system prompt. If you're not familiar with system prompts, they're essentially the core instructions that define how an AI assistant behaves - think of it as the AI's operating manual or personality definition. Getting access to this can be _incredibly_ valuable for understanding how to better interact with (or attack) the system.
 
 After my usual approaches failed, I decided to try something different. Instead of directly attacking the system, I started with a simple question:
 
