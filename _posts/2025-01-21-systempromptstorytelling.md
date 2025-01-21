@@ -4,7 +4,7 @@ date: 2025-01-21
 image: /assets/images/posts/stories.png
 ---
 
-### The Setup
+
 
 I was recently poking around at an AI agent, trying to discover its system prompt. If you're not familiar with system prompts, they're essentially the core instructions that define how an AI assistant behaves - think of it as the AI's operating manual or personality definition. Getting access to this can be _incredibly_ valuable for understanding how to better interact with (or attack) the system.
 
