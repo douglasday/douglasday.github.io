@@ -9,6 +9,8 @@ Ahoy, and welcome to my blog.
 <h3>Things I am:</h3>
 
 - Douglas Day
+- Husband
+- Father
 - Catholic
 - Infosec fledgeling
 - Blockchain newb
