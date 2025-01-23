@@ -4,6 +4,10 @@ author:
   bio: "I am a hacker."
   location: "Holy Terra"
   avatar: "/T07ABUU6XHS-U07D1B16PHP-438693810ae1-512.png"
+  links:
+    - label: "Newsletter"
+      icon: "fas fa-envelope"
+      url: "https://archangel.beehiiv.com/"
 email: douglasday@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Seeker of Truth. Forever a student. Truth is at the intersection of Athens & Jerusalem.
