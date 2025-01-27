@@ -63,3 +63,40 @@ This is a perfect example of why AI security is so fascinating - it's not just a
 As always, stay safe & stay metal!
 
 _Note: System prompt details have been redacted to protect the AI system in question. This post is meant to highlight the importance of proper AI security controls and not as a guide for malicious exploitation._
+
+
+<div class="newsletter-signup">
+  <h3>📬 Subscribe to my Newsletter</h3>
+  <p>Get the latest security research and bug bounty tips directly in your inbox!</p>
+  <a href="https://archangel.beehiiv.com/" class="newsletter-button">
+    Subscribe Now
+  </a>
+</div>
+
+<style>
+  .newsletter-signup {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid #e9ecef;
+  }
+
+  .newsletter-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #e67e22;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-top: 1rem;
+    transition: background-color 0.2s ease;
+  }
+
+  .newsletter-button:hover {
+    background-color: #d35400;
+    color: white;
+  }
+</style>

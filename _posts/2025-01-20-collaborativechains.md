@@ -58,3 +58,40 @@ Bug bounty hunting doesn't have to be a purely solo endeavor. By finding ways to
 As always, stay safe & stay metal!
 
 (Report Pointer naming credit to [NBK_2000](https://twitter.com/NBK_2000))
+
+
+<div class="newsletter-signup">
+  <h3>📬 Subscribe to my Newsletter</h3>
+  <p>Get the latest security research and bug bounty tips directly in your inbox!</p>
+  <a href="https://archangel.beehiiv.com/" class="newsletter-button">
+    Subscribe Now
+  </a>
+</div>
+
+<style>
+  .newsletter-signup {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid #e9ecef;
+  }
+
+  .newsletter-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #e67e22;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-top: 1rem;
+    transition: background-color 0.2s ease;
+  }
+
+  .newsletter-button:hover {
+    background-color: #d35400;
+    color: white;
+  }
+</style>
