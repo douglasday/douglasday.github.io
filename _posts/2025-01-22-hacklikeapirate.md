@@ -1,5 +1,5 @@
 ---
-title: "Hack Like a Pirate"
+title: "Hack Like a Pirate - Treating Your Scope Like a Treasure Hunt"
 date: 2025-02-10
 image: /assets/images/posts/pirate.png
 layout: single
@@ -8,11 +8,6 @@ header:
   overlay_image: /assets/images/posts/pirate.png
   overlay_filter: 0.5  
 ---
-
-
-
-Treating Your Scope like a Treasure Hunt:
-
 
 If you're like most hackers, you probably start your hacking session in one of two ways:
 
@@ -34,11 +29,6 @@ Once you've identified your X, you're no longer aimlessly poking around. You're 
 Without going into detail, I've had a wildly successful January looking for a particular piece of data in a particular application. I know what data I want (my X) and I've spent weeks just looking across the entirety of the app for every piece of functionality that interacts with that data. 
 
 You see, by having a distinct impact in mind, you have _direction_ in how you approach your target and can make more informed decisions about where to look. And direction, my land lubber friends, will save you a lot of heartache and sail across the seas to victory. 
-
-
-
-
-
 
 <div class="newsletter-signup">
   <h3>📬 Subscribe to my Newsletter</h3>
