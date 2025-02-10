@@ -4,6 +4,9 @@ date: 2025-02-10
 image: /assets/images/posts/pirate.png
 layout: single
 author_profile: true
+header:
+  overlay_image: /assets/images/posts/pirate.png
+  overlay_filter: 0.5  
 ---
 
 If you're like most hackers, you probably start your hacking session in one of two ways:
