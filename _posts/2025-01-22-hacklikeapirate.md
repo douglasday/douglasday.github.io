@@ -1,5 +1,5 @@
 ---
-title: "Hack Like a Pirate - Treating your scope like a treasure hunt"
+title: "Hack Like a Pirate"
 date: 2025-02-10
 image: /assets/images/posts/pirate.png
 layout: single
@@ -11,7 +11,7 @@ header:
 
 
 
-
+Treating Your Scope like a Treasure Hunt:
 
 
 If you're like most hackers, you probably start your hacking session in one of two ways:
