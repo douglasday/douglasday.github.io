@@ -4,11 +4,10 @@ date: 2025-02-10
 image: /assets/images/posts/pirate.png
 layout: single
 author_profile: true
+excerpt: "Treating Your Scope Like a Treasure Hunt"
 header:
   overlay_image: /assets/images/posts/pirate.png
   overlay_filter: 0.5
-  title: "Hack Like a Pirate"
-  tagline: "Treating Your Scope Like a Treasure Hunt"
 ---
 
 
