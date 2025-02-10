@@ -11,6 +11,7 @@ header:
   tagline: "Treating Your Scope Like a Treasure Hunt"
 ---
 
+
 If you're like most hackers, you probably start your hacking session in one of two ways:
 
 1. You spin up your recon engine and look at any automated findings it has found.
