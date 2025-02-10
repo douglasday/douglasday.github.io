@@ -1,12 +1,15 @@
 ---
-title: "Hack Like a Pirate - Treating Your Scope Like a Treasure Hunt"
+title: "Hack Like a Pirate"
+subtitle: "Treating Your Scope Like a Treasure Hunt"
 date: 2025-02-10
 image: /assets/images/posts/pirate.png
 layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/posts/pirate.png
-  overlay_filter: 0.5  
+  overlay_filter: 0.5
+  title: "Hack Like a Pirate"
+  subtitle: "Treating Your Scope Like a Treasure Hunt"
 ---
 
 If you're like most hackers, you probably start your hacking session in one of two ways:
