@@ -16,7 +16,7 @@ If you're like most hackers, you probably start your hacking session in one of t
 
 Both of these are fine, and if they work for you, then keep doing what you're doing, pal. I'm not your dad.
 
-But what if I told you that there's a third way? Yep, get your hooks and peg legs ready, whistle your parrot Polly over, because today we're hacking like a pirate, matey!
+But what if I told you that there's a third way? Yep, get your hooks and peg legs ready, and whistle your parrot Polly over, because today we're hacking like a pirate, matey!
 
 You see, pirates don't just sail aimlessly around the seven seas hoping to stumble across some buried treasure. They don't just go digging on every island they come across. Or at least the good ones don't. They have a map with a big red X marking exactly where they need to go. And once they have that destination in mind, they'll navigate through storms, battle rival ships, and overcome any obstacle in their path to reach that treasure.
 
