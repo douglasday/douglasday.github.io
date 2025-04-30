@@ -1,4 +1,3 @@
-
 ---
 title: "The Glazing Score: Measuring AI Sycophancy in the Age of Digital Yes-Men"
 date: 2025-04-30
