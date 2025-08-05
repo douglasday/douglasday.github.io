@@ -9,6 +9,7 @@ author_profile: true
 - [The Exorcist Files](https://www.amazon.com/Exorcist-Files-Stories-Reality-Defeat/dp/1546007652/ref=sr_1_1?crid=98LIAUXC7X40&dib=eyJ2IjoiMSJ9.3IiLq64NeniIHH7GXI8iop3iOKJqythFU4LB6lWRSt2MW3TIaCaRocKkSvpIca8WxfaaPbJtIzupv8OGqkFJwTvjMBi8eFWqEdT3EGD6zvXd_8QqeS3lHgdbn9Sr_Nkl7k-vdtej7n3xx18MB1B5NGI7y4x_N8vCasa2VlnSYX1GsufhGEMwlQHSecynWw2YF8d-0UAMRRMbTJ15Cg9dQEVcRr9v7wIAxvlbHaf7cjo.9wMOHWqKxd1zQ7ZpK8gcy7fwUSh6VIDB2I74T8Meo9c&dib_tag=se&keywords=the+exorcist+files&qid=1736547680&sprefix=the+exor%2Caps%2C213&sr=8-1) By Fr Carlos Martins
 - [Terror of Demons](https://www.amazon.com/Terror-Demons-Reclaiming-Traditional-Masculinity/dp/1505122546) by Kennedy Hall
 - [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=) by Ernest Cline
+- [Xenos](https://www.amazon.com/Eisenhorn-Omnibus-Warhammer-40-000/dp/1789990548/) by Dan Abnett
 
 ## Books I Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
