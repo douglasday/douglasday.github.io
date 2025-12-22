@@ -11,6 +11,7 @@ author_profile: true
 - [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=) by Ernest Cline
 - [Xenos](https://www.amazon.com/Eisenhorn-Omnibus-Warhammer-40-000/dp/1789990548/) by Dan Abnett
 - [The Wealth Ladder](https://www.amazon.com/dp/0593854039?) by Nick Magguilli
+- [The 5 Types of Wealth](https://www.amazon.com/Types-Wealth-Transformative-Guide-Design/dp/059372318X) by Sahil Bloom
 
 ## Books I Read in 2024
 - [Every Good Endeavor](https://www.amazon.com/Every-Good-Endeavor-Connecting-Your/dp/1594632820/ref=sr_1_1?crid=HNK0QTVUZ4W&keywords=every+good+endeavor+tim+keller&qid=1705504837&s=books&sprefix=every+good+%2Cstripbooks%2C170&sr=1-1) by Timothy Keller
