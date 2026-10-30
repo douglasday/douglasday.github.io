@@ -6,6 +6,7 @@ author_profile: true
 
 ## Books I've Read in 2026
 - [The Body Teaches The Soul](https://www.amazon.com/Body-Teaches-Soul-Essential-Healthy/dp/0310368596) by Justin Whitmel Earley
+- [Wisdom Takes Work](https://www.amazon.com/Wisdom-Takes-Work-Repeat-Virtues/dp/0593191730) by Ryan Holiday
 
 ## Books I Read in 2025
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/1982171456/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.7c9Fi1iXXCEpHRcIbSnSFC_xip7u_AXlNt8j2_qppZnBW4zrodzYpWczigNBf-_a3Kn8vAZiAxVarqfLuThTF2x5a0yM8XmSwv2pUVAIldWBUHqRH789QsvrUOVdussW7iFvz4e8RKQo8jrJNxg9QYFgCulAyxAv4r7MaLy_mMXZtSoTT6Mo_iHXSf1uNQxxmYOL5aqwFjOKNMFEdmmXWRxT3-SZKsNZtT3Nyu9eJYk.V1vHzLU6QDPE4WYhLH3m9HQpFgRbrBDRXhcbPIbsmqA&qid=1736547640&sr=8-11-spons) by Dale Carnegie
